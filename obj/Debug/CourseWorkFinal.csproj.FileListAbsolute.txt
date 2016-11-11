@@ -1,0 +1,42 @@
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.exe.config
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.exe
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.pdb
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csprojResolveAssemblyReference.cache
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Form1.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Properties.Resources.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csproj.GenerateResource.Cache
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.exe
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.pdb
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Insert.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\Interop.ADOX.dll
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csproj.ResolveComReference.cache
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.InsertToNewObject.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Resources.Resource1.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.PeregliadPhotos.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\bin\Debug\TranperantPanel.dll
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\bin\Debug\TranperantPanel.pdb
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.GeneralPeregliad.resources
+E:\КПІ\Програмування\Проекти Visual Studio 2013\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Resources.Resource2.resources
+G:\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.exe.config
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\Interop.ADOX.dll
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csproj.ResolveComReference.cache
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.exe
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.pdb
+G:\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.exe
+G:\CourseWorkFinal\CourseWorkFinal\bin\Debug\CourseWorkFinal.pdb
+G:\CourseWorkFinal\CourseWorkFinal\bin\Debug\TranperantPanel.pdb
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csprojResolveAssemblyReference.cache
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Form1.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.GeneralPeregliad.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Insert.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.InsertToNewObject.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.PeregliadPhotos.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Properties.Resources.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Resources.Resource1.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.Resources.Resource2.resources
+G:\CourseWorkFinal\CourseWorkFinal\obj\Debug\CourseWorkFinal.csproj.GenerateResource.Cache
+E:\КПІ\П\4 семестр\Новая папка\PhotoAlbum\CourseWorkFinal\bin\Debug\CourseWorkFinal.exe.config
+E:\КПІ\П\4 семестр\Новая папка\PhotoAlbum\CourseWorkFinal\obj\Debug\Interop.ADOX.dll
+E:\КПІ\П\4 семестр\Новая папка\PhotoAlbum\CourseWorkFinal\obj\Debug\CourseWorkFinal.csproj.ResolveComReference.cache
+E:\КПІ\П\4 семестр\Новая папка\PhotoAlbum\CourseWorkFinal\obj\Debug\CourseWorkFinal.exe
+E:\КПІ\П\4 семестр\Новая папка\PhotoAlbum\CourseWorkFinal\obj\Debug\CourseWorkFinal.pdb
