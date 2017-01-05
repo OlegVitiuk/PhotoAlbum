@@ -1,1 +1,1 @@
-Second course work using Windows Forms. It is desktop application for viewing photos, editing, creating photo albums
+Project based on Windows Forms. It is desktop application for viewing photos, editing, creating photo albums
